@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About Me
+description: My passions and hobbies.
 ---
 
-## Welcome to another page
+## Mathematics
 
-_yay_
+placeholder
+
+## Music
+
+Guitar
 
 [back](./)
