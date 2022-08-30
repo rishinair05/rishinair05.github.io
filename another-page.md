@@ -6,10 +6,14 @@ description: My passions and hobbies.
 
 ## Mathematics
 
-placeholder
+Knot Theory Article:
+
+Other Blogs (Diet Problem for GHG emissions, Graph Theory)
 
 ## Music
 
-Guitar
+Guitar:
+
+Youtube Channel:
 
 [back](./)
