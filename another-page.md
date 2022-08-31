@@ -6,8 +6,6 @@ Description:
 
 ## Introduction
 
-![Branching](https://github.com/rishinair05/rishinair05.github.io/blob/master/IMG_4515%20(1).jpg?raw=true)
-
 <img src="https://github.com/rishinair05/rishinair05.github.io/blob/master/IMG_4515%20(1).jpg?raw=true" width="200">
 
 My name is Rishi Nair and I am a grade 12 student and the University of Toronto Schools. I am interested in various aspects of mathematics
