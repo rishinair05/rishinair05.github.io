@@ -21,13 +21,15 @@ Blog Post on Graph Theory:
 
 Blog Post on Quantum Computing:
 
-## Research Projects
+## Projects
 
 Linear Progamming (Diet Problem and GHG emissions):
 
-Bloom Language Model:
+Some Experiments on the Bloom Language Model:
 
 Data Visualization:
+
+COVID Safety UofT Hackathon:
 
 ## Music
 
