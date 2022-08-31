@@ -13,7 +13,7 @@ with a particular emphasis on the applications of mathematics to physics and com
 
 Knot Theory: I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest).
 
-R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. [(link)] https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
+R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
 
 Blog Post on Graph Theory:
 
