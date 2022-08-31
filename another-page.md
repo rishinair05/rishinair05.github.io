@@ -6,12 +6,14 @@ Description:
 
 ## Introduction
 
+![Branching](https://github.com/rishinair05/rishinair05.github.io/blob/master/IMG_4515%20(1).jpg?raw=true)
+
 My name is Rishi Nair and I am a grade 12 student and the University of Toronto Schools. I am interested in various aspects of mathematics
 with a particular emphasis on the applications of mathematics to physics and computer science.
 
-## Publications and Blog
+## Publications/Blog
 
-Knot Theory: I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest).
+I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest).
 
 R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
 
@@ -21,11 +23,11 @@ Blog Post on Quantum Computing:
 
 ## Research Projects
 
-Linear Progamming (Diet Problem and GHG emissions)
+Linear Progamming (Diet Problem and GHG emissions):
 
 Bloom Language Model:
 
-Data Visualization
+Data Visualization:
 
 ## Music
 
