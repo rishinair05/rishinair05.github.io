@@ -11,7 +11,7 @@ Hello! My name is Rishi Nair and I am a grade 12 student and the University of T
 
 Knot Theory: I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest).
 
-r.nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
+R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
 
 Graph Theory:
 
