@@ -1,7 +1,6 @@
 ---
 layout: default
-title: About Me
-description: My passions and hobbies.
+title: Homepage of Rishi Nair
 ---
 
 ## Introduction
