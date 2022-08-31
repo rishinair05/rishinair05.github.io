@@ -10,15 +10,19 @@ Hello! My name is Rishi Nair and I am a grade 12 student and the University of T
 
 ## Mathematics
 
-Knot Theory Article:
+Knot Theory: I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest).
 
-Graph Theory
+r.nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
 
-## Computer Science
+Graph Theory:
+
+## Research Projects
+
+Linear Progamming (Diet Problem and GHG emissions)
 
 Bloom Language Model:
 
-Linear Progamming (Diet Problem and GHG emissions)
+Data Visualization
 
 ## Music
 
