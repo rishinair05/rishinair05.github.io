@@ -1,19 +1,23 @@
 ---
 layout: default
 title: Homepage of Rishi Nair
+Description:
 ---
 
 ## Introduction
 
-Hello! My name is Rishi Nair and I am a grade 12 student and the University of Toronto Schools. I am interested in...
+My name is Rishi Nair and I am a grade 12 student and the University of Toronto Schools. I am interested in various aspects of mathematics
+with a particular emphasis on the applications of mathematics to physics and computer science.
 
-## Mathematics
+## Publications and Blog
 
 Knot Theory: I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest).
 
-R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
+R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. [(link)] https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
 
-Graph Theory:
+Blog Post on Graph Theory:
+
+Blog Post on Quantum Computing:
 
 ## Research Projects
 
@@ -25,9 +29,9 @@ Data Visualization
 
 ## Music
 
-Guitar:
+I have been playing guitar over 5 years. I post guitar covers and improvisations on my youtube channel.
 
-Youtube Channel:
+Youtube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhRDg/featured)
 
 ## Other Interests:
 
