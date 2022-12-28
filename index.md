@@ -13,7 +13,7 @@ with a particular emphasis on the applications of mathematics to physics and com
 
 ## Resume
 
-Here is my <a href="[RishiNair_Resume.pdf](https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNair_Resume.pdf)">resume</a> in pdf format
+Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNair_Resume.pdf">resume</a> in pdf format
 
 ## Publications/Blog
 
