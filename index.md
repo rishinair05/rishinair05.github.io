@@ -23,16 +23,6 @@ R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022
 
 Blog Post on Graph Theory:
 
-## Projects
-
-Linear Progamming (Diet Problem and GHG emissions):
-
-Some Experiments on the Bloom Language Model:
-
-Data Visualization:
-
-COVID Safety UofT Hackathon:
-
 ## Music
 
 I have been playing guitar over 5 years. I post guitar covers and improvisations on my youtube channel.
