@@ -23,8 +23,6 @@ R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022
 
 Blog Post on Graph Theory:
 
-Blog Post on Quantum Computing:
-
 ## Projects
 
 Linear Progamming (Diet Problem and GHG emissions):
@@ -43,6 +41,6 @@ Youtube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhR
 
 ## Other Interests:
 
-Basketball, physics, computer science
+Basketball, weight training, gardening
 
 [back](./)
