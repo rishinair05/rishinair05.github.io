@@ -14,8 +14,7 @@ with a particular emphasis on the applications of mathematics to physics and com
 ## Resume
 
 Here is my <a href="RishiNair_Resume.pdf">resume</a> in pdf format
-
-<a href="RishiNair_Resume.pdf" class="image fit">alt=""></a>
+<a href="RishiNair_Resume.pdf" target="_blank">PDF.</a>
 
 ## Publications/Blog
 
