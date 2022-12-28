@@ -25,7 +25,7 @@ Blog Post on Graph Theory:
 
 ## Projects
 
-<a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/blob/master/Math%20Mentorship%20ECC%20Slides.pdf">Eliptical Curve Cryptography</a>
+<a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/blob/master/ECCSlides.pdf">Eliptical Curve Cryptography</a>
 
 ## Music
 
