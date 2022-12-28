@@ -23,6 +23,10 @@ R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022
 
 Blog Post on Graph Theory:
 
+## Projects
+
+<a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/blob/master/Math%20Mentorship%20ECC%20Slides.pdf">Eliptical Curve Cryptography<\a>
+
 ## Music
 
 I have been playing guitar over 5 years. I post guitar covers and improvisations on my youtube channel.
