@@ -11,6 +11,10 @@ Description:
 My name is Rishi Nair and I am a grade 12 student and the University of Toronto Schools. I am interested in various aspects of mathematics
 with a particular emphasis on the applications of mathematics to physics and computer science.
 
+## Resume
+
+Here is my <a href="https://github.com/rishinair05/rishinair05.github.io/blob/master/RishiNair_Resume.pdf">resume</a> in pdf format
+
 ## Publications/Blog
 
 I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest organized by the Canadian Mathematical Society).
