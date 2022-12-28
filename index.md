@@ -15,6 +15,8 @@ with a particular emphasis on the applications of mathematics to physics and com
 
 Here is my <a href="RishiNair_Resume.pdf">resume</a> in pdf format
 
+<a href="RishiNair_Resume.pdf" class="image fit">alt=""></a>
+
 ## Publications/Blog
 
 I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest organized by the Canadian Mathematical Society).
