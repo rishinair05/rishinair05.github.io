@@ -9,7 +9,7 @@ Description:
 <img src="https://github.com/rishinair05/rishinair05.github.io/blob/master/IMG_4515%20(1).jpg?raw=true" width="200">
 
 My name is Rishi Nair and I am a grade 12 student at the University of Toronto Schools. I am interested in various aspects of mathematics
-with a particular emphasis on the applications of mathematics to physics and computer science.
+with a particular emphasis on its applications to physics and computer science.
 
 ## Resume
 
@@ -27,11 +27,15 @@ Notes on Graph Theory: <a href="https://drive.google.com/file/d/1Q-_w5ZoScuGJcFb
 
 <a href="https://docs.google.com/viewer?url=https://docs.google.com/presentation/d/1tywudryrCLGPJOSzQPsz6ICeB5gIC5pkBwXPz5f_Xx4/export?format=pdf">Eliptical Curve Cryptography</a>
 
+<a href="https://github.com/rishinair05"> My Github Repositories</a>
+
 ## Music
 
 I have been playing guitar over 5 years. I post guitar covers and improvisations on my youtube channel.
 
 Youtube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhRDg/featured)
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/O-GZf69YIoU" title="Paul Davids Improvisation Challenge 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Other Interests:
 
