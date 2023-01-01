@@ -35,7 +35,7 @@ I have been playing guitar over 5 years. I post guitar covers and improvisations
 
 Youtube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhRDg/featured)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/O-GZf69YIoU" title="Paul Davids Improvisation Challenge 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/O-GZf69YIoU" title="Paul Davids Improvisation Challenge 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Other Interests:
 
