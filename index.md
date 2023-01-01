@@ -19,9 +19,9 @@ Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishina
 
 I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest organized by the Canadian Mathematical Society).
 
-R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. https://cms.math.ca/publications/crux/issue/?volume=48&issue=4
+R.Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. <a href="https://cms.math.ca/publications/crux/issue/?volume=48&issue=4">Link to issue</a> <a href="https://drive.google.com/file/d/1EgqV0vcURWswnZ1nXf6kJg4wOPKVoat1/view?usp=sharing">PDF of article</a>
 
-Blog Post on Graph Theory:
+Notes on Graph Theory: <a href="https://drive.google.com/file/d/1Q-_w5ZoScuGJcFbeRhri0DX4CTS0t9xt/view?usp=sharing">Part I - Preliminaries</a>
 
 ## Projects
 
