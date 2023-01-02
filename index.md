@@ -17,11 +17,11 @@ Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishina
 
 ## Publications/Blog
 
-I wrote an expository article on Knot Theory which was published in the Crux Mathematicorum (winner of the MathemAttic Article Contest organized by the Canadian Mathematical Society).
+I wrote an expository article on Knot Theory which was published in Crux Mathematicorum, a journal of the Canadian Mathematical Society aimed at high school and college students (winner of the MathemAttic Article Contest).
 
 R. Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. <a href="https://cms.math.ca/publications/crux/issue/?volume=48&issue=4">[Link to issue]</a> <a href="https://drive.google.com/file/d/1EgqV0vcURWswnZ1nXf6kJg4wOPKVoat1/view?usp=sharing">[PDF of article]</a>
 
-Notes on Graph Theory: <a href="https://drive.google.com/file/d/1Q-_w5ZoScuGJcFbeRhri0DX4CTS0t9xt/view?usp=sharing">Part I - Preliminaries</a>
+I am currently putting together a series of writeups on Graph Theory and its applications. Here is <a href="https://drive.google.com/file/d/1Q-_w5ZoScuGJcFbeRhri0DX4CTS0t9xt/view?usp=sharing">Part I - Preliminaries</a>.
 
 ## Projects
 
@@ -31,12 +31,12 @@ Notes on Graph Theory: <a href="https://drive.google.com/file/d/1Q-_w5ZoScuGJcFb
 
 ## Music
 
-I have been playing guitar over 6 years. I post guitar covers and improvisations on my youtube channel.
+I have been playing guitar for over 6 years. I occasionally post guitar covers and improvisations on my youtube channel.
 
 Youtube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhRDg/featured)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/O-GZf69YIoU" title="Paul Davids Improvisation Challenge 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/81gCvRLOf88" title="A Tribute to the Legendary B.B. King" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Other Interests:
 
-Basketball, weight training, gardening
+Basketball, weight training, gardening, BBQ
