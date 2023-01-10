@@ -21,7 +21,7 @@ I wrote an expository article on Knot Theory which was published in Crux Mathema
 
 R. Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. <a href="https://cms.math.ca/publications/crux/issue/?volume=48&issue=4">[Link to issue]</a> <a href="https://drive.google.com/file/d/1EgqV0vcURWswnZ1nXf6kJg4wOPKVoat1/view?usp=sharing">[PDF of article]</a>
 
-I am currently putting together a series of writeups on Graph Theory and its applications. Here is <a href="https://drive.google.com/file/d/1zkaiZaz5nAhhyg9J2-ALMvFPP5hmklLh/view?usp=sharing">Part I - Preliminaries</a>.
+I am currently putting together a series of writeups on Graph Theory and its applications. Here is <a href="https://drive.google.com/file/d/1zYp_anf4nZids6N4pHYcqJEFuqNAyK2v/view?usp=sharing">Part I - Preliminaries</a>.
 
 
 
