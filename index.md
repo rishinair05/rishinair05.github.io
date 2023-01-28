@@ -11,7 +11,7 @@ with a particular emphasis on its applications to physics and computer science.
 
 ## Resume
 
-Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNairResume.pdf">resume</a> in pdf format
+Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNair_Resume.pdf">resume</a> in pdf format
 
 ## Publications/Blog
 
