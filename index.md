@@ -15,7 +15,7 @@ Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishina
 
 ## Publications/Blog
 
-I wrote an expository article on Knot Theory which was published in Crux Mathematicorum, a journal of the Canadian Mathematical Society aimed at high school and college students (winner of the MathemAttic Article Contest).
+I wrote an expository article on Knot Theory which was published in Crux Mathematicorum, a journal of the Canadian Mathematical Society aimed at high school and college students (winner of the 2021 MathemAttic Article Contest).
 
 R. Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. <a href="https://cms.math.ca/publications/crux/issue/?volume=48&issue=4">[Link to issue]</a> <a href="https://drive.google.com/file/d/1EgqV0vcURWswnZ1nXf6kJg4wOPKVoat1/view?usp=sharing">[PDF of article]</a>
 
