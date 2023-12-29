@@ -6,8 +6,7 @@ Description:
 
 <img src="https://github.com/rishinair05/rishinair05.github.io/blob/master/IMG_4515%20(1).jpg?raw=true" width="200">
 
-My name is Rishi Nair and I am a grade 12 student at the University of Toronto Schools. I am interested in various aspects of mathematics
-with a particular emphasis on its applications to physics and computer science.
+My name is Rishi Nair and I am a U1 student studying Computer Science at McGill University. I am interested in various aspects of mathematics with a particular emphasis on its applications to computer science.
 
 ## Resume
 
@@ -24,6 +23,10 @@ I am currently putting together a series of writeups on Graph Theory and its app
 
 
 ## Projects
+
+<a href="https://huggingface.co/spaces/rishinair05/McGill_Course_Search">McGill Semantic Course Search Engine</a>
+
+<a href="https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization">McGill Computer Science Course Visualizion</a>
 
 <a href="https://docs.google.com/viewer?url=https://docs.google.com/presentation/d/1tywudryrCLGPJOSzQPsz6ICeB5gIC5pkBwXPz5f_Xx4/export?format=pdf">Eliptical Curve Cryptography</a>
 
