@@ -6,40 +6,60 @@ Description:
 
 <img src="https://github.com/rishinair05/rishinair05.github.io/blob/master/IMG_4515%20(1).jpg?raw=true" width="200">
 
-My name is Rishi Nair and I am a U1 student studying Computer Science at McGill University. I am interested in various aspects of mathematics with a particular emphasis on its applications to computer science.
+My name is Rishi Nair, and I am a 3rd year student studying Honors Computer Science at McGill University. I am interested in the theory of computation and the mathematical aspects of machine learning.
+
+## Experience & Research
+
+**Research**  
+My current research focuses on Implicit Neural Representations (INR) and KST-based models. I formulated Scaled-ActNet, an architecture that introduces input frequency scaling and a SIREN-based initialization scheme to ActNet, outperforming baseline models on image and audio reconstruction tasks.
+
+**ExoByte AI & ExoMind**  
+I am a Co-Founder, Researcher, and Developer at ExoByte AI, where we are researching parameter-efficient, on-device AI models. Our vision is to create deeply personalized models with persistent memory that learn user preferences and context over time, acting as a seamless companion. I am currently working on ExoMind: a privacy-first application designed as an on-device cognitive memory system, enabling users to store,
+search, and derive insights from their personal knowledge.
 
 ## Resume
 
-Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNair_Resume.pdf">resume</a> in pdf format
+Here is my <a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/resume2.pdf">resume</a> in PDF format.
 
-## Publications/Blog
+## Publications & Working Papers
 
-I wrote an expository article on Knot Theory which was published in Crux Mathematicorum, a journal of the Canadian Mathematical Society aimed at high school and college students (winner of the 2021 MathemAttic Article Contest).
+**Scaled-ActNet: Frequency Scaling for Implicit Neural Representations**  
+Working paper on Scaled-ActNet
+<a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RealNet_Final_3.pdf">[PDF of Paper]</a>
 
-R. Nair, An Introduction to Knot Theory, Crux Mathematicorum, Vol. 48, No.4, 2022, pp. 199-207. <a href="https://cms.math.ca/publications/crux/issue/?volume=48&issue=4">[Link to issue]</a> <a href="https://drive.google.com/file/d/1EgqV0vcURWswnZ1nXf6kJg4wOPKVoat1/view?usp=sharing">[PDF of article]</a>
+**An Introduction to Knot Theory**  
+*Crux Mathematicorum*, Vol. 48, No. 4, 2022, pp. 199-207. (Winner of the 2021 MathemAttic Article Contest).  
+<a href="https://cms.math.ca/publications/crux/issue/?volume=48&issue=4">[Link to Issue]</a> <a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNairKnotTheoryCrux.pdf">[PDF of Article]</a>
 
-I am currently putting together a series of writeups on Graph Theory and its applications. Here is <a href="https://drive.google.com/file/d/1zYp_anf4nZids6N4pHYcqJEFuqNAyK2v/view?usp=sharing">Part I - Preliminaries</a>.
-
-
+**Graph Theory writeups**  
+<a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/RishiNairGraphTheoryPart1.pdf">Part I - Preliminaries</a>
 
 ## Projects
 
+<a href="https://github.com/rishinair05/Scaled-ActNet">Scaled-ActNet (PyTorch Implementation)</a>
+
+<a href="https://github.com/rishinair05/Ataxx-Bot">Ataxx Adversarial Search Agent</a>
+
+<a href="https://github.com/rishinair05/OpenHouse">Housr (Swipe-based rental matching web app)</a>
+
 <a href="https://huggingface.co/spaces/rishinair05/McGill_Course_Search">McGill Semantic Course Search Engine</a>
 
-<a href="https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization">McGill Computer Science Course Visualizion</a>
+<a href="https://huggingface.co/spaces/rishinair05/mcgill-computer-science-prerequisite-visualization">McGill Computer Science Course Visualization</a>
 
-<a href="https://docs.google.com/viewer?url=https://docs.google.com/presentation/d/1tywudryrCLGPJOSzQPsz6ICeB5gIC5pkBwXPz5f_Xx4/export?format=pdf">Eliptical Curve Cryptography</a>
+<a href="https://docs.google.com/gview?url=https://github.com/rishinair05/rishinair05.github.io/raw/master/ECCSlides.pdf">Elliptic Curve Cryptography Slides</a>
 
-<a href="https://github.com/rishinair05"> My Github Repositories</a>
+<a href="https://github.com/rishinair05">My GitHub Repositories</a>
 
 ## Music
 
-I have been playing guitar for over 6 years. I occasionally post guitar covers and improvisations on my youtube channel.
+I have been playing guitar for over 6 years. I occasionally post guitar covers and improvisations on my YouTube channel.
 
-Youtube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhRDg/featured)
+YouTube Channel: [(link)](https://www.youtube.com/channel/UCPyfFCjcz2fWpirlrTIhRDg/featured)
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/81gCvRLOf88" title="A Tribute to the Legendary B.B. King" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Other Interests:
+*I am currently working on an upcoming post-rock song titled "One to Infinity".*
+
+## Other Interests
 
 Basketball, weight training, gardening, BBQ
