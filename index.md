@@ -14,8 +14,7 @@ My name is Rishi Nair, and I am a 3rd year student studying Honors Computer Scie
 My current research focuses on Implicit Neural Representations (INR) and KST-based models. I formulated Scaled-ActNet, an architecture that introduces input frequency scaling and a SIREN-based initialization scheme to ActNet, outperforming baseline models on image and audio reconstruction tasks.
 
 **ExoByte AI & ExoMind**  
-I am a Co-Founder, Researcher, and Developer at ExoByte AI, where we are researching parameter-efficient, on-device AI models. Our vision is to create deeply personalized models with persistent memory that learn user preferences and context over time, acting as a seamless companion. I am currently working on ExoMind: a privacy-first application designed as an on-device cognitive memory system, enabling users to store,
-search, and derive insights from their personal knowledge.
+I am a Co-Founder, Researcher, and Developer at ExoByte AI, where we are researching parameter-efficient, on-device AI models. Our vision is to create deeply personalized models with persistent memory that learn user preferences and context over time, acting as a seamless companion. I am currently working on a privacy-first application designed as an on-device cognitive memory system, enabling users to store, search, and derive insights from their personal knowledge.
 
 ## Resume
 
